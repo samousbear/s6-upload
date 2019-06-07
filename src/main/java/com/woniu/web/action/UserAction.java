@@ -10,7 +10,7 @@ import com.woniu.utils.WebUUID;
 
 public class UserAction extends ActionSupport{
 	private File[] photo;
-	private String[] 	photoFileName;
+	private String[] photoFileName;
 	private String name;
 	
 	
